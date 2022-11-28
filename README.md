@@ -1,4 +1,4 @@
-# _Alliance_   :whale: ![Counter-Strike](https://img.shields.io/badge/Alliance-contributor-brightgreen?logo=Counter-Strike)
+ _Alliance_   :whale: ![Counter-Strike](https://img.shields.io/badge/Alliance-contributor-brightgreen?logo=Counter-Strike)
 ***
 ![效果图](https://img.shields.io/badge/License-MIT%202.0%20Apache%20Alliance-red)
 ![xxx](https://img.shields.io/badge/GitHub-wki-green?logo=github&logoColor=red)
