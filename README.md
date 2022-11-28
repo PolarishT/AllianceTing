@@ -11,5 +11,5 @@
 
 ![效果图](https://img.shields.io/badge/License-MIT%202.0%20Apache%20Alliance-red)
 ![xxx](https://img.shields.io/badge/GitHub-wki-green?logo=github&logoColor=red)
-![xx](https://img.shields.io/badge/SpringFrameWook-contribute-brightgreen)
-![x](https://img.shields.io/badge/CloudWeGO-contributor-brightgreen?logo=Spring)
+![xx](https://img.shields.io/badge/SpringFrameWook-contribute-brightgreen?logo=Spring)
+![x](https://img.shields.io/badge/CloudWeGO-contributor-brightgreen?logo=SpringCloud)
