@@ -13,5 +13,5 @@
 ![xxx](https://img.shields.io/badge/GitHub-wki-green?logo=github&logoColor=red)
 ![xx](https://img.shields.io/badge/SpringFrameWook-contribute-brightgreen?logo=Spring)
 ![x](https://img.shields.io/badge/Tencent-contributor-brightgreen?logo=Cloud)
-![x](https://img.shields.io/badge/CloudWeGO-contributor-brightgreen?logo=ByteDance?logoColor=Blue)
+![x](https://img.shields.io/badge/CloudWeGO-contributor-brightgreen?logo=ByteDance)
 
