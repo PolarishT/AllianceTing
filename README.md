@@ -37,7 +37,7 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=MySQL)
+![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=MySQL&logoColor=white)
 
 
 
