@@ -18,11 +18,24 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
 #
-![vue](https://camo.githubusercontent.com/92dce0dff7b0a18f12fc3e00e63355c99cfd7f0cc53fb9bd536aaa4b8b7fc3a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675652e6a732d2532333263336535303f7374796c653d666c61742d737175617265266c6f676f3d767565646f746a73)
+![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D)
 #
-![git](https://camo.githubusercontent.com/c5d0c3ab3bb7d56038dcfa868b056ed7b2bd119579bd4cf4d1123244adc74bca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d2532334630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d253233666666666666)
+	![Git](https://img.shields.io/badge/Git-black?logo=git)
+ ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
+ ![gitlab](https://img.shields.io/badge/Gitlab-330f63.svg?logo=gitlab&logoColor=white)
 
+
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white)
+
+
+![IntelliJ](https://img.shields.io/badge/IntelliJ IDEA-black?logo=intellij-idea&logoColor=white)
+
+
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 
 
