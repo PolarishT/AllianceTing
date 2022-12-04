@@ -32,7 +32,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white)
 
 
-![IntelliJ](https://img.shields.io/badge/IntelliJ IDEA-black?logo=intellij-idea&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ IDEA?logo=intellij-idea&logoColor=white)
 
 
 
