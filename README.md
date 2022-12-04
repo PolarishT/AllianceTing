@@ -19,15 +19,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
-#
 ![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D)
-# 
+# 工作流
  ![Git](https://img.shields.io/badge/Git-black?logo=git)
  ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
  ![Github](https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white)
  ![gitlab](https://img.shields.io/badge/Gitlab-330f63.svg?logo=gitlab&logoColor=white)
 
 
+![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white)
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white)
 
@@ -38,7 +38,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 
-![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white)
 
 
 
