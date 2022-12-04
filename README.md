@@ -31,8 +31,7 @@
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white)
 
-
-![IntelliJ](https://img.shields.io/badge/IntelliJIDEA?logo=intellij-idea&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-black?logo=intellij-idea&logoColor=white)
 
 
 
