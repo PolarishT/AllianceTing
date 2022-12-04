@@ -33,11 +33,7 @@
 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-black?logo=intellij-idea&logoColor=white)
 
-
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=MySQL&logoColor=white)
 
 
 
