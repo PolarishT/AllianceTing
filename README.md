@@ -33,7 +33,7 @@
 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-black?logo=intellij-idea&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker?&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square?logo=docker&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=black)
 ![Google](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white)
