@@ -4,13 +4,13 @@
 ![xx](https://img.shields.io/badge/SpringFrameWook-contribute-brightgreen?logo=Spring)
 ![x](https://img.shields.io/badge/Tencent-contributor-brightgreen?logo=CodingNinjas)
 ![x](https://img.shields.io/badge/CloudWeGO-contributor-brightgreen?logo=ByteDance) -->
-# 
-#### 👋 Hi, I’m @Alliance 
+
+# I 💖 Back End development！ Hope to become a Excellent java Enginner
 #### 👀 I’m interested in JAVA,SpringFrameWork,DataBase,Algorithm, message-oriented middleware，OperatingSystem.
-#### 🌱 I’m currently learning ...Cloud Computing.
-#### 💞️ I’m looking to collaborate on ...technology company
-#### ![QQ](https://img.shields.io/badge/QQ-EB1923?logo=tencent-qq&logoColor=white) 2426446427@qq.com
-#### 📫 2426446427@qq.com(Please note the reason）
+#### 🌱 正在努力学习后端的大三学子
+####    希望可以收获大厂offer <img src="https://avatars.githubusercontent.com/u/4158466?s=200&v=4" width="20px",height="20px">
+#### ![QQ](https://img.shields.io/badge/QQ-EB1923?logo=tencent-qq&logoColor=white)（2426446427)
+#### 📫 2426446427@qq.com
 <!-- 
  ![image](https://user-images.githubusercontent.com/72297937/204316638-054b26a2-0223-49f7-9da2-78eda576584e.png) -->
 
