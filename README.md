@@ -23,9 +23,9 @@
  ![gitlab](https://img.shields.io/badge/Gitlab-330f63.svg?style=flat-square&logo=gitlab&logoColor=white)
 
 
-![mysql](https://img.shields.io/badge/mysql-00000f.svg?style=flat-square&&&logo=mysql&logoColor=white)
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&&logo=spring&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-00000f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=flat-square&logo=Redis&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 
