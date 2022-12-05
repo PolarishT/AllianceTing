@@ -17,19 +17,17 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?style=flat-square&logo=vue.js&logoColor=4FC08D)
 
- ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat&logo=git)
- ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=white)
- ![Github](https://img.shields.io/badge/Github-100000.svg?style=flat-square&logo=github&logoColor=white)
- ![gitlab](https://img.shields.io/badge/Gitlab-330f63.svg?style=flat-square&logo=gitlab&logoColor=white)
-
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=flat-square&logo=Redis&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+![Git](https://img.shields.io/badge/-Git-FCC624?style=flat&logo=git)
+![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=white)
+![Github](https://img.shields.io/badge/Github-100000.svg?style=flat-square&logo=github&logoColor=white)
+![gitlab](https://img.shields.io/badge/Gitlab-330f63.svg?style=flat-square&logo=gitlab&logoColor=white)
+
 ![Google](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
-
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
-
-
