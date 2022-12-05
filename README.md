@@ -26,6 +26,7 @@
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=flat-square&logo=Redis&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 
