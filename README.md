@@ -28,6 +28,4 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-100000.svg?style=flat-square&logo=github&logoColor=white)
 ![gitlab](https://img.shields.io/badge/Gitlab-330f63.svg?style=flat-square&logo=gitlab&logoColor=white)
-
-![Google](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
+![UserInfo](https://github-readme-stats.vercel.app/api?username=AllianceToBeBytedancer)
