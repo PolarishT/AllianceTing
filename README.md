@@ -29,7 +29,9 @@
 ![Github](https://img.shields.io/badge/Github-100000.svg?style=flat-square&logo=github&logoColor=white)
 ![gitlab](https://img.shields.io/badge/Gitlab-330f63.svg?style=flat-square&logo=gitlab&logoColor=white)
 
-目前正在学习
+
 ![UserInfo](https://github-readme-stats.vercel.app/api?username=AllianceToBeBytedancer)
+
+
 
 <div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
