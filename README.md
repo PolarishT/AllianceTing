@@ -36,4 +36,4 @@
 https://github-readme-streak-stats.herokuapp.com/?user=AllianceTing
 
 
-<div align="left"> <img src="https://metrics.lecoq.io/AllianceToBeBytedancer?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="left"> <img src="https://metrics.lecoq.io/AllianceTing?template=classic&config.timezone=Asia%2FShanghai"> </div>
