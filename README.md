@@ -33,5 +33,7 @@
 ![UserInfo](https://github-readme-stats.vercel.app/api?username=AllianceToBeBytedancer)
 
 
+https://github-readme-streak-stats.herokuapp.com/?user=AllianceTing
+
 
 <div align="left"> <img src="https://metrics.lecoq.io/AllianceToBeBytedancer?template=classic&config.timezone=Asia%2FShanghai"> </div>
