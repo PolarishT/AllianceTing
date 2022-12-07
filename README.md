@@ -10,6 +10,9 @@
 #### 🐕‍ 正在努力学习后端的大三学子
 #### 💬 希望可以收获大厂offer
 #### 📮 2426446427@qq.com
+
+Contributors to SpringcloudTencent,polaris
+
 # _Technology Stack_
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white)
