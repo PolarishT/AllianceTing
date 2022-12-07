@@ -26,7 +26,7 @@ Contributors to SpringcloudTencent,polaris
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![NGINX](ttps://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=black)
+![NGINX](ttps://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-100000.svg?style=flat-square&logo=github&logoColor=white)
