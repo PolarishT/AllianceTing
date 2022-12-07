@@ -30,10 +30,9 @@
 ![gitlab](https://img.shields.io/badge/Gitlab-330f63.svg?style=flat-square&logo=gitlab&logoColor=white)
 
 
-![UserInfo](https://github-readme-stats.vercel.app/api?username=AllianceToBeBytedancer)
+![UserInfo](https://github-readme-stats.vercel.app/api?username=AllianceTing)
 
 
-https://github-readme-streak-stats.herokuapp.com/?user=AllianceTing
 
 
 <div align="left"> <img src="https://metrics.lecoq.io/AllianceTing?template=classic&config.timezone=Asia%2FShanghai"> </div>
