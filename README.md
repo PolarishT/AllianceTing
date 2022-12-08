@@ -4,10 +4,10 @@
 ![xx](https://img.shields.io/badge/SpringFrameWook-contribute-brightgreen?logo=Spring)
 ![x](https://img.shields.io/badge/Tencent-contributor-brightgreen?logo=CodingNinjas)
 ![x](https://img.shields.io/badge/CloudWeGO-contributor-brightgreen?logo=ByteDance) -->
-![语雀](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![掘金](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![csdn](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![gitee](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![语雀](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=语雀&logoColor=white)
+![掘金](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=掘金&logoColor=white)
+![csdn](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=csdn&logoColor=white)
+![gitee](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=gitee&logoColor=white)
 
 #### I 💖 Back End development！
 #### 📑 I’m interested in JAVA,SpringFrameWork,DataBase,Algorithm, message-oriented middleware，OperatingSystem.
@@ -30,7 +30,6 @@ alibaba开发者社区博主
 ![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=flat-square&logo=Redis&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
-![Springcloud](https://avatars.githubusercontent.com/u/7815877?s=16&v=20.svg?style=flat-square&logo=springcloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![NGINX](https://img.shields.io/badge/nginx-009639.svg?style=flat-square&logo=nginx&logoColor=black)
