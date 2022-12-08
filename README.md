@@ -13,6 +13,7 @@
 #### 📑 I’m interested in JAVA,SpringFrameWork,DataBase,Algorithm, message-oriented middleware，OperatingSystem.
 #### 🖥️ 持续关注分布式，不断精进学习分布式
 #### 💬 正在努力朝着大厂offer奋斗
+#### ✍️ 了解一些后端相关技术栈，热爱开源文化，学习之余混迹开源社区.
 #### 📮 2426446427@qq.com
 
 Contributors to SpringcloudTencent,polaris
