@@ -41,8 +41,3 @@ alibaba开发者社区博主
 
 
 ![UserInfo](https://github-readme-stats.vercel.app/api?username=AllianceTing)
-
-
-
-
-<div align="left"> <img src="https://metrics.lecoq.io/AllianceTing?template=classic&config.timezone=Asia%2FShanghai"> </div>
