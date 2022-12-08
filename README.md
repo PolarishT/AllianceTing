@@ -10,12 +10,13 @@
 ![gitee](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 
 #### I 💖 Back End development！
-#### 🖥️ I’m interested in JAVA,SpringFrameWork,DataBase,Algorithm, message-oriented middleware，OperatingSystem.
-#### 🐕‍ 正在努力学习后端的大三学子
-#### 💬 希望可以收获大厂offer
+#### 📑 I’m interested in JAVA,SpringFrameWork,DataBase,Algorithm, message-oriented middleware，OperatingSystem.
+#### 🖥️ 持续关注分布式，不断精进学习分布式
+#### 💬 正在努力朝着大厂offer奋斗
 #### 📮 2426446427@qq.com
 
 Contributors to SpringcloudTencent,polaris
+alibaba开发者社区博主
 
 # _Technology Stack_
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white)
