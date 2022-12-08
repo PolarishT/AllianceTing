@@ -4,6 +4,10 @@
 ![xx](https://img.shields.io/badge/SpringFrameWook-contribute-brightgreen?logo=Spring)
 ![x](https://img.shields.io/badge/Tencent-contributor-brightgreen?logo=CodingNinjas)
 ![x](https://img.shields.io/badge/CloudWeGO-contributor-brightgreen?logo=ByteDance) -->
+![语雀](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![掘金](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![csdn](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![gitee](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 
 #### I 💖 Back End development！
 #### 🖥️ I’m interested in JAVA,SpringFrameWork,DataBase,Algorithm, message-oriented middleware，OperatingSystem.
