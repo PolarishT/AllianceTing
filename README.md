@@ -44,5 +44,5 @@ alibaba开发者社区博主
 
 
 ![UserInfo](https://github-readme-stats.vercel.app/api?username=AllianceTing&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllianceTing&theme=radical)
+
 
