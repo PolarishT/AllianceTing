@@ -17,6 +17,7 @@
 #### 📮 2426446427@qq.com
 
 Contributors to SpringcloudTencent,polaris
+
 alibaba开发者社区博主
 
 # _Technology Stack_
@@ -28,6 +29,7 @@ alibaba开发者社区博主
 
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=flat-square&logo=Redis&logoColor=white)
+![java](https://img.shields.io/badge/java-DC382D.svg?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker&logoColor=white)
