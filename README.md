@@ -43,7 +43,6 @@ alibaba开发者社区博主
 ![gitlab](https://img.shields.io/badge/Gitlab-330f63.svg?style=flat-square&logo=gitlab&logoColor=white)
 
 
-![UserInfo](https://github-readme-stats.vercel.app/api?username=AllianceTing)
+![UserInfo](https://github-readme-stats.vercel.app/api?username=AllianceTing&show_icons=true&theme=radical)
 
 
-[![UserInfo](https://github-readme-stats.vercel.app/api/pin/?username=AllianceTing&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats](https://www.yuque.com/allianceenginer)
