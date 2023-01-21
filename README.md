@@ -5,7 +5,6 @@
 ![csdn](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=csdn&logoColor=white)
 ![gitee](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=gitee&logoColor=white)
 
-#### I 💖 Back End development！
 #### 📑 I’m interested in JAVA,SpringFrameWork,DataBase,Algorithm, message-oriented middleware，OperatingSystem.
 #### 🖥️ 持续关注分布式，不断精进学习分布式
 #### 💬 正在努力朝着大厂offer奋斗
