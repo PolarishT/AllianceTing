@@ -15,10 +15,6 @@ alibaba开发者社区博主
 
 # _Things I code_with_
 
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
 <div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
