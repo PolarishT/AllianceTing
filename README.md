@@ -1,11 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AllianceTing&show_icons=true&theme=radical&icon_color=CE1D2D&text_color=718096" />
 
 ![gitlab](https://img.shields.io/badge/Gitlab-330f63.svg?style=flat-square&logo=gitlab&logoColor=white)
-
 ![Github](https://img.shields.io/badge/Github-100000.svg?style=flat-square&logo=github&logoColor=white)
-
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
-
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=white)
 
 # Hi I am zhangzhenting
