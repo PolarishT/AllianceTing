@@ -4,7 +4,7 @@
 
 ![语雀](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=语雀&logoColor=white)
 ![掘金](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=掘金&logoColor=white)
-![csdn](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=csdn&logoColor=white)
+![csdn](https://profilinator.rishav.dev/skills-assets/python-original.svg?style=flat-square&logo=csdn&logoColor=white)
 ![gitee](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=gitee&logoColor=white)
 
 #### 🖥️ 持续关注分布式，不断精进学习分布式
