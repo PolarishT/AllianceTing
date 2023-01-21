@@ -1,7 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AllianceTing&show_icons=true&theme=radical&icon_color=CE1D2D&text_color=718096" />
 
-![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=white)
-
 # Hi I am zhangzhenting
 
 #### 🖥️ 持续关注分布式，不断精进学习分布式
