@@ -1,4 +1,6 @@
- # HELLO!  I'M  ZhenTingzhang 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AllianceTing&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+# HELLO!  I'M  ZhenTingzhang 
 
 ![语雀](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=语雀&logoColor=white)
 ![掘金](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=掘金&logoColor=white)
