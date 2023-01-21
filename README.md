@@ -7,7 +7,6 @@
 ![csdn](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=csdn&logoColor=white)
 ![gitee](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=gitee&logoColor=white)
 
-#### 📑 I’m interested in JAVA,SpringFrameWork,DataBase,Algorithm, message-oriented middleware，OperatingSystem.
 #### 🖥️ 持续关注分布式，不断精进学习分布式
 #### 💬 正在努力朝着大厂offer奋斗
 #### ✍️ 了解一些后端相关技术栈，热爱开源文化，学习之余混迹开源社区.
