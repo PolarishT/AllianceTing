@@ -1,9 +1,5 @@
  # HELLO!  I'M  ZhenTingzhang 
-<!-- ![Apache](https://img.shields.io/badge/License-MIT%202.0%20Apache%20Alliance-red?logo=GO?style=flat-square)
-![xxx](https://img.shields.io/badge/GitHub-wki-green?logo=github&logoColor=red)
-![xx](https://img.shields.io/badge/SpringFrameWook-contribute-brightgreen?logo=Spring)
-![x](https://img.shields.io/badge/Tencent-contributor-brightgreen?logo=CodingNinjas)
-![x](https://img.shields.io/badge/CloudWeGO-contributor-brightgreen?logo=ByteDance) -->
+
 ![语雀](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=语雀&logoColor=white)
 ![掘金](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=掘金&logoColor=white)
 ![csdn](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=csdn&logoColor=white)
