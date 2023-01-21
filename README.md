@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AllianceTing&show_icons=true&theme=radical)&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AllianceTing&show_icons=true&theme=radical&icon_color=CE1D2D&text_color=718096" />
 
 # HELLO!  I'M  ZhenTingzhang 
 
@@ -40,6 +40,5 @@ alibaba开发者社区博主
 ![gitlab](https://img.shields.io/badge/Gitlab-330f63.svg?style=flat-square&logo=gitlab&logoColor=white)
 
 
-![UserInfo](https://github-readme-stats.vercel.app/api?username=AllianceTing&show_icons=true&theme=radical)
 
 
