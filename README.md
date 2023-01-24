@@ -2,7 +2,7 @@
 
 # Hi I am zhangzhenting 
 #### 🖥️ 持续关注后端技术栈，不断探索后端
-#### 💬 正在努力朝着大厂offer奋斗
+#### 💬 后端研发工程师
 #### ✍️ 了解一些后端相关技术栈，热爱开源文化，学习之余混迹开源社区.
 
 Contributors to SpringcloudTencent,polaris
