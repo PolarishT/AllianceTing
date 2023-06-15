@@ -1,11 +1,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AllianceTing&show_icons=true&theme=radical&icon_color=CE1D2D&text_color=718096" />
 
-# Hi I am zhangzhenting 
+# Hi I am Ting 
 #### 🖥️ 持续关注后端技术栈，不断探索后端
 #### 💬 后端研发工程师
 #### ✍️ 了解一些后端相关技术栈，热爱开源文化，学习之余混迹开源社区.
 
-Contributors to SpringcloudTencent,polaris
+Contributors to SpringcloudTencent,polaris,ByteDance
 
 alibaba开发者社区博主
 
