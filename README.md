@@ -2,7 +2,8 @@
 <p align="center">
 <h1 height="200px" align="center">Polarish~🍭<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h1>
 </p>
-
+</br>
+now I'm working in bytedance for ai research and development
 <br>
 <a href="#">
 <img height="27px" src="https://user-images.githubusercontent.com/41336612/118458463-5c9aeb00-b72d-11eb-947f-5a1f6a7f8b9e.png" />
